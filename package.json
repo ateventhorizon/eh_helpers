@@ -1,0 +1,19 @@
+{
+  "name": "eh_helpers",
+  "version": "1.0.0",
+  "description": "various helpers for event_horizon modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ateventhorizon/eh_helpers.git"
+  },
+  "author": "Dado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ateventhorizon/eh_helpers/issues"
+  },
+  "homepage": "https://github.com/ateventhorizon/eh_helpers#readme"
+}
