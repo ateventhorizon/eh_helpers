@@ -1,6 +1,6 @@
 {
   "name": "eh_helpers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "various helpers for event_horizon modules",
   "main": "index.js",
   "scripts": {
