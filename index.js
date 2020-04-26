@@ -1,8 +1,8 @@
-const lastPathElement = (url) => {
+export const lastPathElement = (url) => {
   return url.substring(url.lastIndexOf('/') + 1);
 };
 
-const secondToLastPathElement = (url) => {
+export const secondToLastPathElement = (url) => {
   return url.substring(url.lastIndexOf('/',url.lastIndexOf('/')-1) + 1);
 };
 
